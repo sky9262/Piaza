@@ -2,7 +2,10 @@
 
 いらっしゃいませ！Piaza Code Solutions リポジトリへようこそ！ 🌟 このGitHubリポジトリは、私が日本のプログラミング問題解決プラットフォームであるPiazaで解いたすべてのコードソリューションのコレクションとなっております。
 
-![Piaza ロゴ](insert_piaza_logo_image_link_here)
+![white 07fe826456d16c56cef3](https://github.com/sky9262/Piaza/assets/68050118/dd201289-5e21-4bb7-a122-3f409104ca00)
+![Piaza ステータス](https://github.com/sky9262/Piaza/assets/68050118/68b551ef-ed1e-4be1-9380-e86958e1363f)
+
+![Python3 crown](https://github.com/sky9262/Piaza/assets/68050118/367d8908-7f30-4aa1-bfa9-1b7ef3c876ba)
 
 ## Piazaについて
 Piazaは、LeetCodeに似た非常に評価の高いオンラインプラットフォームで、コーディングスキルと問題解決のテクニックを向上させることを目的としています。ここでは、アルゴリズムの問題からデータ構造の実装演習まで、さまざまなコーディングの課題に真摯に取り組んでおります。
